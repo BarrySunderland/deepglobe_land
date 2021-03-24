@@ -1,0 +1,8 @@
+name: deepglobe_land
+channels:
+  - defaults
+dependencies:
+  - tensorflow-gpu==1.12
+  - tqdm
+  - imageio
+prefix: /home/berry/anaconda3/envs/deepglobe_land
